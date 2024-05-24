@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MarkerLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 0
+  m_GuidHigh: 0
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5391182297707353048
+      m_GuidHigh: 11703037809308511645
+    m_SerializedTextureGuid:
+      m_GuidLow: 901904316686656931
+      m_GuidHigh: 15151472760866474219
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: dinomarker01
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5472142010327718697
+      m_GuidHigh: 6593631516113104557
+    m_SerializedTextureGuid:
+      m_GuidLow: 12543687711322174017
+      m_GuidHigh: 4256489422859576488
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: dinomarker02
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4862614889410816961
+      m_GuidHigh: 9265644042554092972
+    m_SerializedTextureGuid:
+      m_GuidLow: 10661263931968506214
+      m_GuidHigh: 16082045405450497482
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: dinomarker03
+    m_Texture: {fileID: 0}
